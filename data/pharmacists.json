@@ -1,0 +1,29 @@
+{
+  "pharmacists": [
+    {
+      "id": "1",
+      "fullName": "Илья Пупкин",
+      "age": 28,
+      "isOnShift": true,
+      "hireDate": "2023-09-01T09:00:00",
+      "scheduleDays": [
+        "Понедельник",
+        "Вторник",
+        "Среда"
+      ],
+      "price": 200
+    },
+    {
+      "id": "2",
+      "fullName": "Федя Дудкин",
+      "age": 45,
+      "isOnShift": false,
+      "hireDate": "2015-02-14T10:00:00",
+      "scheduleDays": [
+        "Четверг",
+        "Пятница",
+        "Суббота"
+      ]
+    }
+  ]
+}

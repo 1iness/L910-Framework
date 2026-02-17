@@ -1,0 +1,12 @@
+{
+  "name": "l910-framework",
+  "version": "1.0.0",
+  "description": "Custom Node.js framework for Pharmacy lab",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

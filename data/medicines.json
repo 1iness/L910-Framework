@@ -1,0 +1,35 @@
+{
+  "medicines": [
+    {
+      "id": "1",
+      "name": "Парацетомол",
+      "price": 12.5,
+      "requiresPrescription": false,
+      "expiryDate": "2026-12-31",
+      "activeIngredients": [
+        "что-то есть1",
+        "просто поле"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "От живота",
+      "price": 8.2,
+      "requiresPrescription": true,
+      "expiryDate": "2025-05-15",
+      "activeIngredients": [
+        "что-то есть2"
+      ]
+    },
+    {
+      "name": "Аспирин",
+      "price": 200,
+      "requiresPrescription": false,
+      "expiryDate": "2026-01-01",
+      "activeIngredients": [
+        "Кислота"
+      ],
+      "id": "4084d9fc-1d03-40f3-b70b-d87155026fe1"
+    }
+  ]
+}
